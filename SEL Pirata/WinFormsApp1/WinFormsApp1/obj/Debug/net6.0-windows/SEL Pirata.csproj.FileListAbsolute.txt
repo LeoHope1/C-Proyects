@@ -1,0 +1,8 @@
+C:\Users\LEO LIBROS\Documents\Visual Studio 2022\Proyectos\SEL Pirata\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Creditos.resources
+C:\Users\LEO LIBROS\Documents\Visual Studio 2022\Proyectos\SEL Pirata\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+C:\Users\LEO LIBROS\Documents\Visual Studio 2022\Proyectos\SEL Pirata\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\SEL_Pirata.Properties.Resources.resources
+C:\Users\LEO LIBROS\Documents\Visual Studio 2022\Proyectos\SEL Pirata\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\SEL Pirata.csproj.GenerateResource.cache
+C:\Users\LEO LIBROS\Documents\Visual Studio 2022\Proyectos\SEL Pirata\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\SEL Pirata.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LEO LIBROS\Documents\Visual Studio 2022\Proyectos\SEL Pirata\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\SEL Pirata.AssemblyInfoInputs.cache
+C:\Users\LEO LIBROS\Documents\Visual Studio 2022\Proyectos\SEL Pirata\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\SEL Pirata.AssemblyInfo.cs
+C:\Users\LEO LIBROS\Documents\Visual Studio 2022\Proyectos\SEL Pirata\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\SEL Pirata.csproj.CoreCompileInputs.cache
